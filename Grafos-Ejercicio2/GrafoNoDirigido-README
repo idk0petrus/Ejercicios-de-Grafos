@@ -1,0 +1,28 @@
+# Grafo No Dirigido – Matriz de Adyacencia
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Status](https://img.shields.io/badge/status-completed-brightgreen?style=for-the-badge)
+
+## Descripción:
+
+-Implementación en Java de un **grafo no dirigido** utilizando una **matriz de adyacencia dinámica**. El proyecto incluye operaciones CRUD para vértices y aristas, y permite ejecutar los recorridos **BFS** y **DFS** desde cualquier nodo.
+
+-El propósito es demostrar el manejo de matrices redimensionables para representar grafos y aplicar los algoritmos clásicos de búsqueda.
+
+## Características:
+
+- Representación mediante matriz de adyacencia (`int[][]`).
+- Redimensionamiento automático al agregar o eliminar vértices.
+- Operaciones CRUD completas para vértices y aristas.
+- Recorridos BFS y DFS desde un nodo origen.
+- Impresión formateada de la matriz de adyacencia.
+
+## Requisitos:
+
+- Java JDK 8 o superior.
+- Sin dependencias externas.
+
+## Estructura del Proyecto:
+
+- GrafoNoDirigido.java (Lógica del TDA Grafo No Dirigido)
+- Main.java (Punto de entrada y demostración)
