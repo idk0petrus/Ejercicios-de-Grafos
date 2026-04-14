@@ -3,7 +3,7 @@ Este repositorio contiene dos implementaciones de la estructura de datos Grafo p
 ## Contenido
 
 - Ejercicio 1: Grafo Dirigido Ponderado (Lista de Adyacencia)
-- Ejercicio 2: Grafo No Dirigido (Matriz de Adyacencia)]
+- Ejercicio 2: Grafo No Dirigido (Matriz de Adyacencia)
 
 Cada carpeta incluye su propio código fuente y un README con instrucciones específicas.
 
