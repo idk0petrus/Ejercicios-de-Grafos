@@ -1,0 +1,28 @@
+# Grafo Dirigido Ponderado – Lista de Adyacencia
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Status](https://img.shields.io/badge/status-completed-brightgreen?style=for-the-badge)
+
+## Descripción:
+
+-Implementación en Java de un **grafo dirigido ponderado** utilizando **listas de adyacencia**. El proyecto incluye un CRUD completo para vértices y aristas, así como los algoritmos de recorrido **BFS** (Búsqueda en Anchura) y **DFS** (Búsqueda en Profundidad).
+
+-Este ejercicio corresponde a la asignatura de Estructuras de Datos II y tiene como objetivo reforzar el manejo de grafos dirigidos, listas enlazadas y algoritmos de búsqueda.
+
+## Características:
+
+- Representación mediante listas de adyacencia (`Map<String, LinkedList<Arista>>`).
+- Soporte para pesos en las aristas.
+- Operaciones CRUD sobre vértices y aristas.
+- Algoritmos de recorrido BFS y DFS desde un nodo origen.
+- Impresión formateada de la lista de adyacencia.
+
+## Requisitos:
+
+- Java JDK 8 o superior.
+- Sin dependencias externas (solo librerías estándar de Java).
+
+## Estructura del Proyecto:
+
+- GrafoDirigido.java (Lógica del TDA Grafo Dirigido Ponderado)
+- Main.java (Punto de entrada y demostración)
